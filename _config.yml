@@ -12,7 +12,7 @@ github_repo: "https://github.com/zmjios" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/aboutme.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -48,32 +48,18 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-
-
-
-# 评论系统
-# Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
-
-# 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
-# Duoshuo settings
-# duoshuo_username: qiubaiying
-# Share component is depend on Comment so we can NOT use share only.
-# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+input: GFM                            # use Github Flavored Markdown !important
 
 
 
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id:
+ba_track_id: 'b36f2ca4ad95f6f69e30631405338647'
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-109202503-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
-
-
 
 
 
@@ -82,19 +68,14 @@ featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
 
-
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·青花瓷的平方",
         href: "http://www.jianshu.com/u/13a968405975"
     },{
