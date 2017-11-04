@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 青花瓷的平方的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 852838218@qq.com
 description: "Every failure is leading towards success."
 keyword: "青花瓷的平方的博客, mjzeng, zengmingjian, iOS, Android, iPhone，ML，C/C++"
 url: "http://zmjios.github.io"          # your host, for absolute URL
@@ -51,8 +51,6 @@ kramdown:
 input: GFM                            # use Github Flavored Markdown !important
 
 
-
-
 # Analytics settings
 # Baidu Analytics
 ba_track_id: 'b36f2ca4ad95f6f69e30631405338647'
@@ -60,7 +58,6 @@ ba_track_id: 'b36f2ca4ad95f6f69e30631405338647'
 # Google Analytics
 ga_track_id: 'UA-109202503-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
-
 
 
 # Featured Tags
