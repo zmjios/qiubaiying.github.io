@@ -18,10 +18,10 @@ sidebar-avatar: /img/aboutme.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     青花瓷的平方
 zhihu_username:     青花瓷的平方
 github_username:    zmjios
-jianshu_username:   青花瓷的平方
+jianshu_username:   13a968405975
 
 
 
@@ -74,11 +74,13 @@ service-worker: true
 friends: [
     {
         title: "简书·青花瓷的平方",
-        href: "http://www.jianshu.com/u/13a968405975"
-    },{
+        href: "https://www.jianshu.com/u/13a968405975"
+    },
+    {
         title: "Apple",
         href: "https://apple.com"
-    },{
+    },
+    {
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
